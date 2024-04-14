@@ -1,0 +1,14 @@
+C:\Projetos\ProjetoDeEstudo\ProjetoDeEstudo\bin\Debug\net8.0\ProjetoDeEstudo.exe
+C:\Projetos\ProjetoDeEstudo\ProjetoDeEstudo\bin\Debug\net8.0\ProjetoDeEstudo.deps.json
+C:\Projetos\ProjetoDeEstudo\ProjetoDeEstudo\bin\Debug\net8.0\ProjetoDeEstudo.runtimeconfig.json
+C:\Projetos\ProjetoDeEstudo\ProjetoDeEstudo\bin\Debug\net8.0\ProjetoDeEstudo.dll
+C:\Projetos\ProjetoDeEstudo\ProjetoDeEstudo\bin\Debug\net8.0\ProjetoDeEstudo.pdb
+C:\Projetos\ProjetoDeEstudo\ProjetoDeEstudo\obj\Debug\net8.0\ProjetoDeEstudo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\ProjetoDeEstudo\ProjetoDeEstudo\obj\Debug\net8.0\ProjetoDeEstudo.AssemblyInfoInputs.cache
+C:\Projetos\ProjetoDeEstudo\ProjetoDeEstudo\obj\Debug\net8.0\ProjetoDeEstudo.AssemblyInfo.cs
+C:\Projetos\ProjetoDeEstudo\ProjetoDeEstudo\obj\Debug\net8.0\ProjetoDeEstudo.csproj.CoreCompileInputs.cache
+C:\Projetos\ProjetoDeEstudo\ProjetoDeEstudo\obj\Debug\net8.0\ProjetoDeEstudo.dll
+C:\Projetos\ProjetoDeEstudo\ProjetoDeEstudo\obj\Debug\net8.0\refint\ProjetoDeEstudo.dll
+C:\Projetos\ProjetoDeEstudo\ProjetoDeEstudo\obj\Debug\net8.0\ProjetoDeEstudo.pdb
+C:\Projetos\ProjetoDeEstudo\ProjetoDeEstudo\obj\Debug\net8.0\ProjetoDeEstudo.genruntimeconfig.cache
+C:\Projetos\ProjetoDeEstudo\ProjetoDeEstudo\obj\Debug\net8.0\ref\ProjetoDeEstudo.dll
