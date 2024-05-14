@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projetos\\ProjetoDeEstudo\\ProjetoDeEstudo\\ProjetoDeEstudo.csproj": {}
+    "C:\\Projetosdotnet\\desafio-dio-tdd-e-testes-unitarios\\ProjetoDeEstudo\\ProjetoDeEstudo.csproj": {}
   },
   "projects": {
-    "C:\\Projetos\\ProjetoDeEstudo\\ProjetoDeEstudo\\ProjetoDeEstudo.csproj": {
+    "C:\\Projetosdotnet\\desafio-dio-tdd-e-testes-unitarios\\ProjetoDeEstudo\\ProjetoDeEstudo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projetos\\ProjetoDeEstudo\\ProjetoDeEstudo\\ProjetoDeEstudo.csproj",
+        "projectUniqueName": "C:\\Projetosdotnet\\desafio-dio-tdd-e-testes-unitarios\\ProjetoDeEstudo\\ProjetoDeEstudo.csproj",
         "projectName": "ProjetoDeEstudo",
-        "projectPath": "C:\\Projetos\\ProjetoDeEstudo\\ProjetoDeEstudo\\ProjetoDeEstudo.csproj",
-        "packagesPath": "C:\\Users\\igor2\\.nuget\\packages\\",
-        "outputPath": "C:\\Projetos\\ProjetoDeEstudo\\ProjetoDeEstudo\\obj\\",
+        "projectPath": "C:\\Projetosdotnet\\desafio-dio-tdd-e-testes-unitarios\\ProjetoDeEstudo\\ProjetoDeEstudo.csproj",
+        "packagesPath": "C:\\Users\\jupra\\.nuget\\packages\\",
+        "outputPath": "C:\\Projetosdotnet\\desafio-dio-tdd-e-testes-unitarios\\ProjetoDeEstudo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\igor2\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\jupra\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -55,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

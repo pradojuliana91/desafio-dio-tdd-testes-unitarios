@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/zWoo7aT+TqGZpXQBBcQQIHlrIj0k56cW33npwBtet2xR7IXqtwOyOob7UPB2J1ZeV2vD5hWI9xHu2j0XqpsWA==",
+  "dgSpecHash": "kDiX0ttFQOmOYAMJ2Rjit91X+qOnSiocZtEalUvBJ+IekoJRPRR73J/OGmfIj3hiEEQli5q5HM+FSIQfnv36Zw==",
   "success": true,
-  "projectFilePath": "C:\\Projetos\\ProjetoDeEstudo\\ProjetoDeEstudo\\ProjetoDeEstudo.csproj",
+  "projectFilePath": "C:\\Projetosdotnet\\desafio-dio-tdd-e-testes-unitarios\\ProjetoDeEstudo\\ProjetoDeEstudo.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
